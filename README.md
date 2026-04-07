@@ -136,7 +136,3 @@ python app/main.py
 * Add caching for faster responses
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
